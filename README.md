@@ -10,4 +10,9 @@ To increase the user interaction of the model, we created a WebApp using Streaml
 The dataset used in this project includes information about Airbnb listings in New York City, including features such as neighborhood group, room type, minimum nights, number of reviews, and more.
 Link - https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
+## WebApp UI
+
+![image](https://github.com/kasif-zisan/AirBNB-Price-Prediction/assets/75033362/9e06dc49-19e7-4504-a649-5c012090fc9c)
+
+## Remarks
 All of the details including the Background Study, the data visualizations, the model performances are in the project report and the notebook.
